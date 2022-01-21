@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+### 个人信息
+#### 邮箱 | xw-zhang21@mails.tsinghua.edu.cn
+#### 手机 | (+86)173-0226-0039
+#### 地址 | 北京市海淀区双清路30号清华大学伟伦楼
 
-You can use the [editor on GitHub](https://github.com/ElliottCheung/ElliottCheung.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### 研究方向
+- 信息系统经济学
+- 共享经济
+- 电子商务
+- 在线用户行为
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 教育背景
+#### 2021.08 - 至   今 | 清华大学经济管理学院 管理科学与工程 博士
+#### 2018.09 - 2021.06 | 南开大学金融学院 金融学 学士
+#### 2017.08 - 2021.06 | 天津大学管理与经济学部 电子商务 学士
 
-### Markdown
+### 奖励荣誉
+- 2021.06 | 天津大学优秀毕业生
+- 2020.12 | 本科生国家奖学金
+- 2018.12 | NITORI国际奖学金
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[=^=]:
+    ## Welcome to GitHub Pages
 
-```markdown
-Syntax highlighted code block
+    You can use the [editor on GitHub](https://github.com/ElliottCheung/ElliottCheung.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-# Header 1
-## Header 2
-### Header 3
+    Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-- Bulleted
-- List
+    ### Markdown
 
-1. Numbered
-2. List
+    Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-**Bold** and _Italic_ and `Code` text
+    ```markdown
+    Syntax highlighted code block
 
-[Link](url) and ![Image](src)
-```
+    # Header 1
+    ## Header 2
+    ### Header 3
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+    - Bulleted
+    - List
 
-### Jekyll Themes
+    1. Numbered
+    2. List
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElliottCheung/ElliottCheung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+    **Bold** and _Italic_ and `Code` text
 
-### Support or Contact
+    [Link](url) and ![Image](src)
+    ```
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+    For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+
+    ### Jekyll Themes
+
+    Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ElliottCheung/ElliottCheung.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+    ### Support or Contact
+
+    Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
