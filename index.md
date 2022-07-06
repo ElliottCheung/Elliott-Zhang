@@ -1,28 +1,24 @@
-### 个人信息
-- 邮箱 | xw-zhang21@mails.tsinghua.edu.cn
-- 手机 | (+86)173-0226-0039
-- 地址 | 北京市海淀区双清路30号清华大学伟伦楼
+### Brief
+- Email | xw-zhang21@mails.tsinghua.edu.cn
+- Tel | (+86)173-0226-0039
+- Address | Weilun Building, Tsinghua University, No. 30 Shuangqing Road, Haidian District, Beijing
 
-### 研究方向
-- 信息系统经济学
-- 平台经济
-- 电子商务
-- 在线用户行为
+### Research Areas
+- Economics of Information Systems
+- Sharing Economy
+- Electronic Commerce
+- Online User Behavior
 
-### 教育背景
-#### 2021.08 - 2026.06 | 清华大学经济管理学院 管理科学与工程 博士
-#### 2018.09 - 2021.06 | 南开大学金融学院 金融学 学士
-#### 2017.08 - 2021.06 | 天津大学管理与经济学部 电子商务 学士
-- 专业成绩：3.92/4.00（连续4年专业第一）
+### Educational Background
+#### 2021.08 - 2026.06 | School of Economics and Management, Tsinghua University
+- Ph.D. Management Science and Engineering
+#### 2018.09 - 2021.06 | School of Finance, Nankai University
+- B.Eng.(Minor) Finance
+#### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
+- B.Eng.(Major) Electronic Commerce
+- Honors: Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
-### 业界经历
-- 2021.03 - 2021.06 | Oliver Wyman （上海）
-- 2019.07 – 2019.08 | 中国人寿保险大连市分公司
-- 2019.01 – 2019.02 | 中国建设银行大连市分行
-
-### 奖励荣誉
-- 2021.06 | 天津大学优秀毕业生
-- 2021.06 | 天津大学优秀毕业论文
-- 2020.12 | 本科生国家奖学金
-- 2020.12 | 天津大学学生科技英才
-- 2018.12 | NITORI国际奖学金
+### Internship experience
+- 2021.03 - 2021.06 | Oliver Wyman (Shanghai)
+- 2019.07 – 2019.08 | China Life Insurance (Dalian)
+- 2019.01 – 2019.02 | China Construction Bank (Dalian)
