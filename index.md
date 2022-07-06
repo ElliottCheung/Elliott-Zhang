@@ -14,6 +14,7 @@
 - Ph.D. Management Science and Engineering
 #### 2018.09 - 2021.06 | School of Finance, Nankai University
 - B.Eng.(Minor) Finance
+- Honors: Outstanding Thesis Nomination
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
 - B.Eng.(Major) Electronic Commerce
 - Honors: Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
