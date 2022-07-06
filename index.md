@@ -1,4 +1,4 @@
-### Brief
+### Personal Information
 - Email | xw-zhang21@mails.tsinghua.edu.cn
 - Tel | (+86)173-0226-0039
 - Address | Weilun Building, Tsinghua University, No. 30 Shuangqing Road, Haidian District, Beijing
