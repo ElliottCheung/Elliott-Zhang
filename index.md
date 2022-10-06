@@ -47,7 +47,7 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - **Social Service.** *Study on the Health Level and Health Status Preferences of Mainland Chinese Residents*. Tianjin, China, July 2018 - August 2018.
 
 ## Skills
-- **Technical:** Stata, R, Python, C#, C/C++, Latex, SQL, MS Office
+- **Technical:** Stata, R, Python, C#, C/C++, LaTex, SQL, MS Office
 - **Language:** Mandarin (Native), English (Proficient), Spanish (Beginners)
 - **Amateur:** Painting, Trumbone, Sheng
 
