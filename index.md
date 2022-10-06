@@ -1,4 +1,6 @@
 ## Personal Information
+- **Position:** Ph.D candidate
+- **Organization**: School of Economics and Management, Tsinghua University
 - **Email:** xw-zhang21@mails.tsinghua.edu.cn
 - **Tel:** (+86)173-0226-0039
 - **Address:** Weilun Building, Tsinghua University, No.30 Shuangqing Road, Haidian District, Beijing
@@ -27,7 +29,7 @@
 Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - 吴懿, **张啸威** & 林志杰 (2022).共享住宿平台房东放弃筛选房客的动因-基于行业内竞争. *管理科学*, 35(01):3-16. （CSSCI；国家自然基金委A类期刊）
 
-## Teaching
+## Teaching Experience
 - (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
 - (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
 
