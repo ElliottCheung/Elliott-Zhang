@@ -23,29 +23,31 @@
 - **Honors:** Outstanding Thesis Nomination
 
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
-- B.S. (Major) in *Electronic Commerce* (GPA 3.92/4.00)
+- B.S. (Major) in *Electronic Commerce* (GPA 3.92/4.00, rank 1/27)
 - **Honors:** Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
-## Publications and Talks
+## Publications and Presentations
 - **Xiaowei Zhang** & Zhijie Lin (2022). No Change No Growth? The Role of Competition in the Effectiveness of Airbnb Hosts’ Dynamic Strategies. *China Summer Workshop on
 Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
-- 吴懿, **张啸威** & 林志杰 (2022).共享住宿平台房东放弃筛选房客的动因:基于行业内竞争. *管理科学*, 35(01): 3-16. （CSSCI；国家自然科学基金委A类期刊）
+- 吴懿, **张啸威** & 林志杰 (2022).共享住宿平台房东放弃筛选房客的动因:基于行业内竞争. *管理科学*, 35(01): 3-16. （CSSCI; 国家自然科学基金委A类期刊）
 
 ## Teaching Experience
-- (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
-- (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
+- TA. (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
+- TA. (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
+
+## Social Services
+- Anonymous Reviewer: ICIS, CSWIM, 管理科学学报
+- Editor. *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
+- Secretary. *Operation Department, Center of Rural Revitalization, Tsinghua University*. Beijing, China, September 2021 - August 2022.
+- PTA. *Oliver Wyman Consulting (Shanghai) Ltd*. Shanghai, China, March 2021 - June 2021.
+- Cofunder. *Peiyang TACC Platform*. Tianjin, China, October 2020 - Present.
+- Intern. *China Life Insurance (Dalian)*, Dalian, China, July 2019 - August 2019.
+- Social Service. *Qingming Teaching Support Team*, Loudi, China, June 2019 - July 2019.
+- Intern. *China Construction Bank (Dalian)*, Dalian, China, January 2019 - Feburary 2019.
+- Social Service. *Study on the Health Level and Health Status Preferences of Mainland Chinese Residents*. Tianjin, China, July 2018 - August 2018.
 
 ## Skills
 - **Technical:** Stata, R, Python, C#, C/C++, Latex, SQL, MS Office
 - **Language:** English (Proficient), Mandarin (Native), Spanish (Beginners)
 - **Amateur:** Painting, Trumbone, Sheng
 
-## Social Work
-- Anonymous Reviewer: ICIS, CSWIM, 管理科学学报
-- Editor. *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
-- PTA. *Oliver Wyman*. Shanghai, China, March 2021 - June 2021.
-- Cofunder. *Peiyang TACC Platform*. Tianjin, China, October 2020 - Present.
-- Intern. *China Life Insurance*, Dalian, China, July 2019 - August 2019.
-- Social Practice. *CFQM Teaching Support Team*, Loudi, China, June 2019 - July 2019.
-- Intern. *China Construction Bank*, Dalian, China, January 2019 - Feburary 2019.
-- Social Practice. *Study on the health level and health status preferences of mainland Chinese residents*. Tianjin, China, July 2018 - August 2018.
