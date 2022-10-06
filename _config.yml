@@ -1,10 +1,4 @@
 baseurl: "/"
 name: Elliott Xiaowei Zhang
 description: Elliott Xiaowei Zhang is currently a Ph.D. candidate in Management Science and Engineering at Tsinghua University. 
-theme: jekyll-agency
-plugins:
-  - jekyll-feed
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jemoji
-  - jekyll-remote-theme # 添加这一行
+theme: jekyll-theme-slate
