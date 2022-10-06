@@ -1,8 +1,10 @@
 ## Personal Information
 - **Position:** Ph.D candidate
 - **Organization**: School of Economics and Management, Tsinghua University
+
+## Contact Me
 - **Email:** xw-zhang21@mails.tsinghua.edu.cn
-- **Tel:** (+86)173-0226-0039
+- **Tel:** (+86) 173-0226-0039
 - **Address:** Weilun Building, Tsinghua University, No.30 Shuangqing Road, Haidian District, Beijing
 
 ## Research Interests
@@ -33,7 +35,17 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
 - (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
 
-## Internship Experience
-- Oliver Wyman, Shanghai, China, March 2021 - June 2021.
-- China Life Insurance, Dalian, China, July 2019 - August 2019.
-- China Construction Bank, Dalian, China, January 2019 - Feburary 2019.
+## Skills
+- **Technical:** Stata, R, Python, C#, C/C++, Latex, SQL, MS Office
+- **Language:** English (Proficient), Mandarin (Native), Spanish (Beginners)
+- **Amateur:** Painting, Trumbone, Sheng
+
+## Social Work
+- Anonymous Reviewer: ICIS, CSWIM, 管理科学学报
+- Editor. *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
+- PTA. *Oliver Wyman*. Shanghai, China, March 2021 - June 2021.
+- Cofunder. *Peiyang TACC Platform*. Tianjin, China, October 2020 - Present.
+- Intern. *China Life Insurance*, Dalian, China, July 2019 - August 2019.
+- Social Practice. *CFQM Teaching Support Team*, Loudi, China, June 2019 - July 2019.
+- Intern. *China Construction Bank*, Dalian, China, January 2019 - Feburary 2019.
+- Social Practice. *Study on the health level and health status preferences of mainland Chinese residents*. Tianjin, China, July 2018 - August 2018.
