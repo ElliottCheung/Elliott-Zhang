@@ -27,7 +27,7 @@
 ## Publications and Talks
 - **Xiaowei Zhang** & Zhijie Lin (2022). No Change No Growth? The Role of Competition in the Effectiveness of Airbnb Hosts’ Dynamic Strategies. *China Summer Workshop on
 Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
-- 吴懿, **张啸威** & 林志杰 (2022).共享住宿平台房东放弃筛选房客的动因-基于行业内竞争. *管理科学*, 35(01):3-16. （CSSCI；国家自然基金委A类期刊）
+- 吴懿, **张啸威** & 林志杰 (2022).共享住宿平台房东放弃筛选房客的动因:基于行业内竞争. *管理科学*, 35(01): 3-16. （CSSCI；国家自然基金委A类期刊）
 
 ## Teaching Experience
 - (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
