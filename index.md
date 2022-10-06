@@ -36,15 +36,15 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - TA. (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
 
 ## Internship and Social Services
-- Anonymous Reviewer: ICIS, CSWIM, 管理科学学报
-- Editor. *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
-- Secretary. *Operation Department, Center of Rural Revitalization, Tsinghua University*. Beijing, China, September 2021 - August 2022.
-- PTA. *Oliver Wyman Consulting (Shanghai) Ltd*. Shanghai, China, March 2021 - June 2021.
-- Cofunder. *Peiyang TACC Platform*. Tianjin, China, October 2020 - Present.
-- Intern. *China Life Insurance (Dalian)*, Dalian, China, July 2019 - August 2019.
-- Social Service. *Qingming Teaching Support Team*, Loudi, China, June 2019 - July 2019.
-- Intern. *China Construction Bank (Dalian)*, Dalian, China, January 2019 - Feburary 2019.
-- Social Service. *Study on the Health Level and Health Status Preferences of Mainland Chinese Residents*. Tianjin, China, July 2018 - August 2018.
+- **Anonymous Reviewer:** ICIS, CSWIM, 管理科学学报
+- **Editor.** *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
+- **Secretary.** *Operation Department, Center of Rural Revitalization, Tsinghua University*. Beijing, China, September 2021 - August 2022.
+- **PTA.** *Oliver Wyman Consulting (Shanghai) Ltd*. Shanghai, China, March 2021 - June 2021.
+- **Cofunder.** *Peiyang TACC Platform*. Tianjin, China, October 2020 - Present.
+- **Intern.** *China Life Insurance (Dalian)*, Dalian, China, July 2019 - August 2019.
+- **Social Service.** *Qingming Teaching Support Team*, Loudi, China, June 2019 - July 2019.
+- **Intern.** *China Construction Bank (Dalian)*, Dalian, China, January 2019 - Feburary 2019.
+- **Social Service.** *Study on the Health Level and Health Status Preferences of Mainland Chinese Residents*. Tianjin, China, July 2018 - August 2018.
 
 ## Skills
 - **Technical:** Stata, R, Python, C#, C/C++, Latex, SQL, MS Office
