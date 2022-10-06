@@ -1,1 +1,4 @@
-theme: jekyll-theme-slate
+baseurl: "/"
+name: Elliott Cheung
+description: Elliott Cheung is currently a Ph.D. candidate in Management Science and Engineering at Tsinghua University. 
+theme: jekyll-agency
