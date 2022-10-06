@@ -11,14 +11,14 @@
 
 ## Educational Background
 #### 2021.08 - Present | School of Economics and Management, Tsinghua University
-- Ph.D. Candidate *Management Science and Engineering*
+- Ph.D. Candidate in *Management Science and Engineering*
 
 #### 2018.09 - 2021.06 | School of Finance, Nankai University
-- B.S.(Minor) *Finance*
+- B.S.(Minor) in *Finance*
 - Honors: Outstanding Thesis Nomination
 
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
-- B.Eng.(Major) *Electronic Commerce*
+- B.Eng.(Major) in *Electronic Commerce*
 - Honors: Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
 ## Internship Experience
