@@ -17,11 +17,11 @@
 - **Supervisor:** Zhijie Lin
 
 #### 2018.09 - 2021.06 | School of Finance, Nankai University
-- B.S.(Minor) in *Finance*
+- B.S. (Minor) in *Finance*
 - **Honors:** Outstanding Thesis Nomination
 
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
-- B.Eng.(Major) in *Electronic Commerce*
+- B.S. (Major) in *Electronic Commerce*
 - **Honors:** Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
 ## Publications and Talks
