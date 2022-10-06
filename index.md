@@ -22,6 +22,6 @@
 - Honors: Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
 ## Internship Experience
-- 2021.03 - 2021.06 | Oliver Wyman (Shanghai)
-- 2019.07 – 2019.08 | China Life Insurance (Dalian)
-- 2019.01 – 2019.02 | China Construction Bank (Dalian)
+- 2021.03 - 2021.06 Oliver Wyman (Shanghai)
+- 2019.07 – 2019.08 China Life Insurance (Dalian)
+- 2019.01 – 2019.02 China Construction Bank (Dalian)
