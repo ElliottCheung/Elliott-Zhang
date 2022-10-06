@@ -35,5 +35,5 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 
 ## Internship Experience
 - Oliver Wyman, Shanghai, China, March 2021 - June 2021.
-- China Life Insurance, Dalian, China, July 2019 – August 2019.
+- China Life Insurance, Dalian, China, July 2019 - August 2019.
 - China Construction Bank, Dalian, China, January 2019 - Feburary 2019.
