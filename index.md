@@ -20,7 +20,7 @@
 
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
 - B.Eng.(Major) in *Electronic Commerce*
-- Honors: Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
+- **Honors:** Outstanding Graduates, Outstanding Graduation Thesis, National Scholarship for Undergraduates, NITORI International Scholarship, etc.
 
 ## Publications and Talks
 - **Xiaowei Zhang** & Zhijie Lin (2022). No Change No Growth? The Role of Competition in the Effectiveness of Airbnb Hosts’ Dynamic Strategies. *China Summer Workshop on
