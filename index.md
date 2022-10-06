@@ -35,7 +35,7 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - TA. (ID: 10510134) Probability and Mathematical Statistics. 2022 Fall
 - TA. (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
 
-## Social Services
+## Internship and Social Services
 - Anonymous Reviewer: ICIS, CSWIM, 管理科学学报
 - Editor. *Journal of Systems Science and Systems Engineering*. Beijing, China, July 2022 - Present.
 - Secretary. *Operation Department, Center of Rural Revitalization, Tsinghua University*. Beijing, China, September 2021 - August 2022.
