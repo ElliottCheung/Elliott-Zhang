@@ -34,6 +34,6 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 - (ID: 30511073) Computer Language and Programming. 2022 Spring, 2022 Fall
 
 ## Internship Experience
-- **2021.03 - 2021.06** Oliver Wyman (Shanghai)
-- **2019.07 – 2019.08** China Life Insurance (Dalian)
-- **2019.01 – 2019.02** China Construction Bank (Dalian)
+- Oliver Wyman, Shanghai, China, March 2021 - June 2021.
+- China Life Insurance, Dalian, China, July 2019 – August 2019.
+- China Construction Bank, Dalian, China, January 2019 - Feburary 2019.
