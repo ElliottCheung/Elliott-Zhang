@@ -19,7 +19,7 @@
 - **Supervisor:** Zhijie Lin
 
 #### 2018.09 - 2021.06 | School of Finance, Nankai University
-- B.S. (Minor) in *Finance* (GPA 3.68/4.00)
+- B.S. (Minor) in *Finance*
 - **Honors:** Outstanding Thesis Nomination
 
 #### 2017.08 - 2021.06 | College of Management and Economics, Tianjin University
