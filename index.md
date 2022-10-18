@@ -48,6 +48,7 @@ Information Management (CSWIM)*, Ningbo, China, 20-21 August 2022.
 
 ## Skills
 - **Technical:** Stata, R, Python, C#, C/C++, LaTex, SQL, MS Office
-- **Language:** Mandarin (Native), English (Proficient), Spanish (Beginners)
+- **Designing:** Adobe (Photoshop, InDesign, Premiere, After Effects, Lightroom, Audition), FL Studio
+- **Language:** Mandarin (Native), English (Proficient), Spanish (Beginner)
 - **Amateur:** Painting, Trumbone, Sheng
 
