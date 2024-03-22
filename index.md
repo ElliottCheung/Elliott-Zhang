@@ -1,5 +1,5 @@
 ## Personal Information
-- **Position:** Ph.D candidate
+- **Position:** Ph.D. candidate
 - **Organization**: School of Economics and Management, Tsinghua University
 
 ## Contact Me
@@ -20,6 +20,7 @@
 #### 2021.08 - Present | School of Economics and Management, Tsinghua University
 - Ph.D. Candidate in *Management Science and Engineering* (GPA 3.93/4.00)
 - **Supervisor:** Zhijie Lin
+- **Honors:** General Scholarship, Outstanding Teaching Assistant, etc.
 
 #### 2018.09 - 2021.06 | School of Finance, Nankai University
 - B.S. (Minor) in *Finance*
